@@ -1,0 +1,10 @@
+-I
+D:/Quick/BYD/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug
+-I
+D:/Qt/6.6.3/mingw_64/./qml
+--resource
+D:/Quick/BYD/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/qmake_BYD.qrc
+--resource
+D:/Quick/BYD/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/appBYD_raw_qml_0.qrc
+--module
+BYD

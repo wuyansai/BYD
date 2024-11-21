@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="/qt/qml/BYD/">
+    <file alias="Main.qml">D:/Quick/BYD/Main.qml</file>
+    <file alias="HMI/AC.qml">D:/Quick/BYD/HMI/AC.qml</file>
+    <file alias="HMI/App.qml">D:/Quick/BYD/HMI/App.qml</file>
+    <file alias="HMI/ControlCenter.qml">D:/Quick/BYD/HMI/ControlCenter.qml</file>
+    <file alias="HMI/Home.qml">D:/Quick/BYD/HMI/Home.qml</file>
+    <file alias="HMI/Settings.qml">D:/Quick/BYD/HMI/Settings.qml</file>
+    <file alias="Components/ACBar.qml">D:/Quick/BYD/Components/ACBar.qml</file>
+    <file alias="Components/ACFan.qml">D:/Quick/BYD/Components/ACFan.qml</file>
+    <file alias="Components/ACFunctionBar.qml">D:/Quick/BYD/Components/ACFunctionBar.qml</file>
+    <file alias="Components/ColorSlider.qml">D:/Quick/BYD/Components/ColorSlider.qml</file>
+    <file alias="Components/FunctionBar2.qml">D:/Quick/BYD/Components/FunctionBar2.qml</file>
+    <file alias="Components/FunctionBar3.qml">D:/Quick/BYD/Components/FunctionBar3.qml</file>
+    <file alias="Components/IconButton.qml">D:/Quick/BYD/Components/IconButton.qml</file>
+    <file alias="Components/IconSwitch.qml">D:/Quick/BYD/Components/IconSwitch.qml</file>
+    <file alias="Components/Navigation.qml">D:/Quick/BYD/Components/Navigation.qml</file>
+    <file alias="Components/QuickSlider.qml">D:/Quick/BYD/Components/QuickSlider.qml</file>
+    <file alias="Components/SwipeArea.qml">D:/Quick/BYD/Components/SwipeArea.qml</file>
+    <file alias="Components/StatusBar.qml">D:/Quick/BYD/Components/StatusBar.qml</file>
+    <file alias="Components/SettingsModeBar.qml">D:/Quick/BYD/Components/SettingsModeBar.qml</file>
+    <file alias="Components/SettingsList.qml">D:/Quick/BYD/Components/SettingsList.qml</file>
+    <file alias="Components/SettingsFunctionBar.qml">D:/Quick/BYD/Components/SettingsFunctionBar.qml</file>
+    <file alias="Components/QuickWind.qml">D:/Quick/BYD/Components/QuickWind.qml</file>
+    <file alias="Components/QuickTemperatureList.qml">D:/Quick/BYD/Components/QuickTemperatureList.qml</file>
+    <file alias="resources.qrc">D:/Quick/BYD/resources.qrc</file>
+  </qresource>
+</RCC>
+

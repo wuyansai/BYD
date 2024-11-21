@@ -1,0 +1,27 @@
+module BYD
+typeinfo appBYD.qmltypes
+prefer :/qt/qml/BYD/
+Main 1.0 Main.qml
+AC 1.0 HMI/AC.qml
+App 1.0 HMI/App.qml
+ControlCenter 1.0 HMI/ControlCenter.qml
+Home 1.0 HMI/Home.qml
+Settings 1.0 HMI/Settings.qml
+ACBar 1.0 Components/ACBar.qml
+ACFan 1.0 Components/ACFan.qml
+ACFunctionBar 1.0 Components/ACFunctionBar.qml
+ColorSlider 1.0 Components/ColorSlider.qml
+FunctionBar2 1.0 Components/FunctionBar2.qml
+FunctionBar3 1.0 Components/FunctionBar3.qml
+IconButton 1.0 Components/IconButton.qml
+IconSwitch 1.0 Components/IconSwitch.qml
+Navigation 1.0 Components/Navigation.qml
+QuickSlider 1.0 Components/QuickSlider.qml
+SwipeArea 1.0 Components/SwipeArea.qml
+StatusBar 1.0 Components/StatusBar.qml
+SettingsModeBar 1.0 Components/SettingsModeBar.qml
+SettingsList 1.0 Components/SettingsList.qml
+SettingsFunctionBar 1.0 Components/SettingsFunctionBar.qml
+QuickWind 1.0 Components/QuickWind.qml
+QuickTemperatureList 1.0 Components/QuickTemperatureList.qml
+

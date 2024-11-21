@@ -1,0 +1,14 @@
+-rootPath
+D:/Quick/BYD
+-cmake-output
+-output-file
+D:/Quick/BYD/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appBYD.cmake
+-importPath
+D:/Quick/BYD/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/BYD
+-importPath
+D:/Quick/BYD/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug
+-importPath
+D:/Qt/6.6.3/mingw_64/./qml
+-qrcFiles
+D:/Quick/BYD/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/qmake_BYD.qrc
+D:/Quick/BYD/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/appBYD_raw_qml_0.qrc

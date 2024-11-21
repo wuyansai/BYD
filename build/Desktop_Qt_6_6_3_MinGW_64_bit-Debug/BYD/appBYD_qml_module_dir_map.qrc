@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/BYD">D:/Quick/BYD/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/BYD</file>
+
+  </qresource>
+</RCC>

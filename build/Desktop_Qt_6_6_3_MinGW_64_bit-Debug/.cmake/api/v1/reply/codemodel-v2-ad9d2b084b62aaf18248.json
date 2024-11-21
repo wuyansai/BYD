@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f957a6fc837c804355a9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BYD",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-ef6b149ebc28d0a3404f.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-d51420fb95fd770a0547.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-569109e2b1bd5894b6f8.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-a67bad5e780fb8fd4bc3.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBYD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBYD-Debug-66979c59be520915375b.json",
+					"name" : "appBYD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBYD_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBYD_autogen-Debug-21e6c5c7beec283af91b.json",
+					"name" : "appBYD_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBYD_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBYD_autogen_timestamp_deps-Debug-3888c7d3d8a7bdbb4ab0.json",
+					"name" : "appBYD_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBYD_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBYD_qmlimportscan-Debug-c206a635383df736f77b.json",
+					"name" : "appBYD_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBYD_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBYD_qmllint-Debug-cbb13350531468d5de20.json",
+					"name" : "appBYD_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBYD_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBYD_qmllint_json-Debug-650943cf67ba23eba86c.json",
+					"name" : "appBYD_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBYD_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBYD_qmllint_module-Debug-db92a5833b0bd44acdf7.json",
+					"name" : "appBYD_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBYD_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBYD_qmltyperegistration-Debug-ac7314f32de0f1c8e997.json",
+					"name" : "appBYD_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBYD_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBYD_tooling-Debug-46e13eeb85812ee3c744.json",
+					"name" : "appBYD_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Quick/BYD/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+		"source" : "D:/Quick/BYD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
