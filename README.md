@@ -2,6 +2,8 @@
 
 Paragraph.
 
+<img src="Images/ACBar/blow.png"/>
+
 ## Second Level Heading
 
 Paragraph.
@@ -42,7 +44,6 @@ First Level Heading in Alternate Style
 ======================================
 
 Paragraph.
-
 Second Level Heading in Alternate Style
 ---------------------------------------
 
